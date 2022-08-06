@@ -2,15 +2,13 @@ package Api;
 
 
 import io.restassured.RestAssured;
-import io.restassured.http.ContentType;
-import org.json.simple.JSONObject;
 import org.testng.annotations.Test;
 
 import static io.restassured.RestAssured.given;
 
 
 
-public class PUT {
+public class PUTDel {
 
 
     @Test
@@ -26,8 +24,26 @@ public class PUT {
                         "    \"password\": \"442935\"\n" +
                         "}").when().post("/login").then().log().all().extract().response();
 
+    }
+
+    @Test
+    public void hccDesignationGet(){
+
+        //https://qa-hcc.mynisum.com/api/v1/general/designations
+
+        RestAssured.baseURI="https://qa-hcc.mynisum.com/api/v1/general";
+        given().log().all().relaxedHTTPSValidation().when().get("/designations").then().statusCode(200).
+                log().all()
+                .extract().response();
+
+    }
 
 
+    @Test
+    public void Delete(){
+
+
+        given().when().delete("https://reqres.in/api/users/2").then().statusCode(204);
     }
 
 }
