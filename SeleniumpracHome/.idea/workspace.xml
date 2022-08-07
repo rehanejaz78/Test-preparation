@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11f94f0a-253e-455d-ade6-edea3234d3d7" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2D1NyWCl4NUlGJ3xz1ccsby3lRq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Test preparation\SeleniumpracHome\src\test\java" />
+      <recent name="F:\Test preparation\SeleniumpracHome\src\main\java" />
+      <recent name="F:\Test preparation\SeleniumpracHome\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.LoginClass">
+    <configuration name="LoginClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DarazSeller.LoginClass" />
+      <module name="SeleniumpracHome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DarazSeller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginClass" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumpracHome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DarazSeller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DarazSeller" />
+      <option name="MAIN_CLASS_NAME" value="DarazSeller.LoginClass" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginClass.Login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumpracHome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DarazSeller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DarazSeller" />
+      <option name="MAIN_CLASS_NAME" value="DarazSeller.LoginClass" />
+      <option name="METHOD_NAME" value="Login" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginClass" />
+        <item itemvalue="TestNG.LoginClass.Login" />
+        <item itemvalue="Application.LoginClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11f94f0a-253e-455d-ade6-edea3234d3d7" name="Changes" comment="" />
+      <created>1659862892849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659862892849</updated>
+    </task>
+    <servers />
+  </component>
+</project>
